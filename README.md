@@ -1,4 +1,19 @@
 # laboratorio-1-
 Codificación y Compresión - Lab 1 -  Codificador de Fuente sin Pérdidas
 
-Cada archivo contiene una de las partes del laboratorio, simplemente ejecutar los códigos y los resultados se observan en el output.
+Descriçión:
+  Este repositorio contiene el desarrollo del laboratorio 1 de la asignatura Codifiación y Compresión.
+  Docente: Sergio Cabarrouy
+  Integrantes del grupo: Gabriel Pérez, X, Y
+
+Estructura:
+  README:
+    Contiene instrucciones y una descripción del repositorio.
+  src:
+    Carpeta que contiene los códigos desarrollados para cada parte del laboratorio.
+  Datos:
+    Carpeta que contiene los archivos de texto brindados por la cátedra junto con un archivo .py de generación de fuentes sintéticas.
+  resultados: 
+    Carpeta que contiene los resultados obtenidos, ya sean tablas, gráficos, etc.
+  reporte.md:
+    Reporte final del laboratorio.
