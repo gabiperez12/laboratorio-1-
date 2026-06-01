@@ -13,7 +13,5 @@ Estructura:
     Carpeta que contiene los códigos desarrollados para cada parte del laboratorio.
   Datos:
     Carpeta que contiene los archivos de texto brindados por la cátedra junto con un archivo .py de generación de fuentes sintéticas.
-  resultados: 
-    Carpeta que contiene los resultados obtenidos, ya sean tablas, gráficos, etc.
   reporte.md:
     Reporte final del laboratorio.
