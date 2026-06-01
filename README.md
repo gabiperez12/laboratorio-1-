@@ -1,7 +1,7 @@
 # laboratorio-1-
 Codificación y Compresión - Lab 1 -  Codificador de Fuente sin Pérdidas
 
-Descriçión:
+Descripción:
   Este repositorio contiene el desarrollo del laboratorio 1 de la asignatura Codifiación y Compresión.
   Docente: Sergio Cabarrouy
   Integrantes del grupo: Gabriel Pérez, Fabrizio De Santis, Gaston Lopes
